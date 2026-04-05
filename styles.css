@@ -1,0 +1,7 @@
+/* Using the universal selector to delete all unwanted stuff */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
